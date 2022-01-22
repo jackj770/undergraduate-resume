@@ -1,29 +1,37 @@
-\documentclass[letter,10pt]{article}
-\usepackage[utf8]{inputenc}
-
 %====================
 % File:         resume.tex
-% Editor:       https://github.com/TimmyChan 
-%               https://www.linkedin.com/in/timmy-l-chan/
-% Last Updated: Jan 7th, 2022
-% Notes:        All formatting is done in TLCresume.sty
+% Editor:       https://github.com/ekgibbons 
+%               https://www.linkedin.com/in/ekgibbons/
+% Last Updated: 2022.01.21
+% Notes:        All formatting is done in wsueceresume.sty
 %               No need to touch that file. 
 %               All actual content is in the sections/ folder.
 %====================
 
-\usepackage{TLCresume}
+
+\documentclass[letter,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{wsueceresume}
+
 
 %====================
 % CONTACT INFORMATION
 %====================
-\def\name{Your Name} % Name Here
-\def\phone{(801) 626-6000}
-\def\street{1165 Patterson St}
-\def\city{Ogden, Utah 84408}
-\def\email{yourname@mail.weber.edu}
-\def\LinkedIn{ekgibbons} % linkedin.com/in/______
-\def\github{ekgibbons} % github username
-\def\role{Data Scientist / Junior Developer} % JOB TITLE
+\def\name{Eric Gibbons} % NAME HERE
+\def\role{Signal processing engineer} % JOB TITLE
+
+% Rearrange these categories as needed.
+% Exclude the sections that aren't needed.
+\def\contactinfo{
+  \github{ekgibbons}
+  \linkedin{ekgibbons}\\
+  \email{youremail@mail.weber.edu}
+  \phone{(801) 626-6200}\\
+  \www{faculty.weber.edu/ericgibbons}
+  \location{City, State}
+  \info{U.S. Citizen}
+}
+
 
 \input{_header}
 \begin{document}
