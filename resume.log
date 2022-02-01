@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.31)  31 JAN 2022 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.31)  31 JAN 2022 23:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -855,41 +855,41 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 LaTeX Warning: Unused global option(s):
     [letter].
 
-No file resume.aux.
+(./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 38.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 3
-7.
-(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
+8.
+ (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-LF on 
-input line 37.
+input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-LF.fd
 File: T1SourceSansPro-LF.fd 2016/12/03 (autoinst) Font definitions for T1/Sourc
 eSansPro-LF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 37.
+(Font)              scaled to size 10.0pt on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -948,7 +948,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box63
-Package hyperref Info: Link coloring ON on input line 37.
+Package hyperref Info: Link coloring ON on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -961,20 +961,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count316
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
+
+(./resume.out) (./resume.out)
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
-
-ABD: EveryShipout initializing macros (./sections/objective.tex)
+ ABD: EveryShipout initializing macros
+(./sections/objective.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 41.
+(Font)              scaled to size 10.0pt on input line 42.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 41.
-
-(./sections/education.tex
+(Font)              scaled to size 12.0pt on input line 42.
+ (./sections/education.tex
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/sb/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
@@ -988,15 +989,28 @@ rceSansPro-LF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 4.
+)
+Runaway argument?
+{Weber State University \textbf {Expected May 2024} \end {zitemize} \par \ETC.
+./resume.tex:43: File ended while scanning use of \textit .
+<inserted text> 
+                \par 
+l.43 \input{sections/education}
+                               
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(./sections/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
-) (./sections/skills.tex
+(Font)              <5> on input line 4.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 5.
 )
-Overfull \hbox (7.97499pt too wide) in paragraph at lines 4--46
+Overfull \hbox (17.97499pt too wide) in paragraph at lines 4--47
 []  
  []
 
@@ -1015,19 +1029,19 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ) (./sections/awards.tex) (./sections/activities.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 29.86pt on input line 61.
+(Font)              scaled to size 29.86pt on input line 62.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/sb/n' will be
-(Font)              scaled to size 29.86pt on input line 61.
+(Font)              scaled to size 29.86pt on input line 62.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 61.
+(Font)              scaled to size 14.4pt on input line 62.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 61.
+ut line 62.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 61.
+ut line 62.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
@@ -1035,45 +1049,56 @@ File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
- (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
 
+./resume.tex:62: LaTeX Error: \begin{itemize} on input line 4 ended by \end{doc
+ument}.
 
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  E65B539422930A5A20AA67E24E396FAF;489.
- ) 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
+(./resume.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: E65B539422930A5A20AA67E24E396FAF;489.
+ )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 4 (\begingroup)
+### semi simple group (level 1) entered at line 4 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 21925 strings out of 483183
- 398435 string characters out of 5966292
- 677137 words of memory out of 5000000
- 36450 multiletter control sequences out of 15000+600000
+ 21940 strings out of 483183
+ 398606 string characters out of 5966292
+ 677298 words of memory out of 5000000
+ 36459 multiletter control sequences out of 15000+600000
  620213 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,15n,74p,796b,813s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_sd7igg.enc}{/u
-sr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/sh
-are/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_mhce32.enc}{/usr/share/t
-exlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/share/te
-xlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/tex
-live/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 148418 bytes).
+ 75i,15n,74p,796b,963s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_
+sd7igg.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsm
+u.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_mhce32.enc
+}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{
+/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}</usr/
+share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regu
+lar.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSa
+nsPro-Semibold.pfb>
+Output written on resume.pdf (1 page, 132798 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 77 words of extra memory for PDF output out of 10000 (max. 10000000)
 
