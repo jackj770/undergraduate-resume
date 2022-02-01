@@ -1,3 +1,5 @@
+]
+  exit
 %====================
 % File:         resume.tex
 % Editor:       https://github.com/ekgibbons 
@@ -37,7 +39,6 @@
 \begin{document}
 \input{sections/objective}
 
-
 \section{Education}
 \input{sections/education}
 
@@ -59,8 +60,3 @@
 
 
 \end{document}
-
-%%% Local Variables:
-%%% mode: latex
-%%% TeX-master: t
-%%% End:
